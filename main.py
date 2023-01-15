@@ -14,6 +14,7 @@ pygame.display.set_caption("Mystic Falls")
 #icon = pygame.image.load('vampire.png')
 #display icon
 #pygame.display.set_icon(icon)
+#comment test
 
 playerImg = pygame.transform.scale(pygame.image.load('damon.png'), (75, 115))
 #playerImg = pygame.transform.scale(playerImg, (100, 100))
